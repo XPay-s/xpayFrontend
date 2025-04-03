@@ -10,9 +10,12 @@ import img9 from '../assets/images/9.png';
 import line1 from '../assets/images/line1.png';
 import line2 from '../assets/images/line2.png';
 import line3 from '../assets/images/line3.png';
+// import sent from ' ../assets/images/sent.png';
+import displayTrans from '../assets/images/displayTrans.png';
 
 export const images = {
     onboard1,
+    displayTrans,
     onboard2,
     onboard3,
     onboard4,
@@ -23,6 +26,7 @@ export const images = {
     img9,
     line1,
     line2,
-    line3
+    line3,
+    // sent,
 }
 export const onboardImages = [onboard1, onboard2, onboard3, onboard4]

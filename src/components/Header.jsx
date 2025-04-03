@@ -12,7 +12,7 @@ function Header() {
           </div>
           <div className="text-3xl">$4,590.00</div>
         </div>
-        <div className="flex flex-row bg-dark-slate-grey m-4 rounded-lg drop-shadow-lg shadow-dark-slate-grey p-[12px] justify-between">
+        <div className="flex flex-row bg-dark-slate-grey m-4 rounded-lg drop-shadow-lg shadow-deep-charcoal p-[12px] justify-between">
           <div className="flex flex-col justify-between items-center">
             <img src={icons.topUp} alt="" className="h-6" />
             <div>Top up</div>

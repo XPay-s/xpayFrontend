@@ -23,7 +23,7 @@ function OnboardThree() {
           className="text-white-smoke pl-[24px] mr-4 font-semibold text-4xl"
           style={{
             fontFamily: "Poppins",
-            lineHeight: "57.69px",
+          
             letterSpacing: "0%",
             textTransform: "capitalize",
             verticalAlign: "bottom",
