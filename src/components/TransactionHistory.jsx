@@ -7,7 +7,7 @@ function TransactionHistory() {
       <div className="w-full max-w-[420px] bg-dark-slate-grey m-4 rounded-lg drop-shadow-lg shadow-deep-charcoal p-4">
         <div>
           <div className="flex flex-row justify-between items-center mb-4">
-            <div className="text-lg font-semibold text-white">
+            <div className="text-md font-semibold text-light-slate">
               Transaction History
             </div>
             <div className="text-light-slate">Amount</div>

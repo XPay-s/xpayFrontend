@@ -16,6 +16,8 @@ import tv from '../assets/icons/tv.png';
 import vechile from '../assets/icons/vechile.png';
 import water from '../assets/icons/water.png';
 import withdraw from '../assets/icons/withdraw.png';
+import edit from '../assets/icons/edit.png';
+import forward from '../assets/icons/forward.png';
 
 export const icons = {
     arrow,
@@ -35,5 +37,7 @@ export const icons = {
     tv,
     vechile,
     water,
-    withdraw
+    withdraw, 
+    edit,
+    forward
     };
